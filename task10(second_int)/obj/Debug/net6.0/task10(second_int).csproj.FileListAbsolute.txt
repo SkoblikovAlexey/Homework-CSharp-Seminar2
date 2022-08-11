@@ -1,0 +1,15 @@
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\bin\Debug\net6.0\task10(second_int).exe
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\bin\Debug\net6.0\task10(second_int).deps.json
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\bin\Debug\net6.0\task10(second_int).runtimeconfig.json
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\bin\Debug\net6.0\task10(second_int).dll
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\bin\Debug\net6.0\task10(second_int).pdb
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\obj\Debug\net6.0\task10(second_int).csproj.AssemblyReference.cache
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\obj\Debug\net6.0\task10(second_int).GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\obj\Debug\net6.0\task10(second_int).AssemblyInfoInputs.cache
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\obj\Debug\net6.0\task10(second_int).AssemblyInfo.cs
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\obj\Debug\net6.0\task10(second_int).csproj.CoreCompileInputs.cache
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\obj\Debug\net6.0\task10(second_int).dll
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\obj\Debug\net6.0\refint\task10(second_int).dll
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\obj\Debug\net6.0\task10(second_int).pdb
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\obj\Debug\net6.0\task10(second_int).genruntimeconfig.cache
+D:\Work\GeekBrains\C#\Seminar2(homework)\task10(second_int)\obj\Debug\net6.0\ref\task10(second_int).dll
