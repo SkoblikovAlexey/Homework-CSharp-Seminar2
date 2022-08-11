@@ -5,8 +5,7 @@
 // 782 -> 8
 // 918 -> 1
 
-bool calculation = true;
-while (calculation)
+while (true)
 {
     Console.WriteLine("Введите трёхзначное число.");
     int number = Convert.ToInt32(Console.ReadLine());
@@ -17,6 +16,6 @@ while (calculation)
     string a = Console.ReadLine();
     if (a == "end")
     {
-        calculation = false;
+        break;
     }
 }
